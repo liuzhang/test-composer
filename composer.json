@@ -1,0 +1,6 @@
+{
+    "name": "liuzhang/test-composer",
+    "description": "this is test for composer packagist",
+    "license": "MIT",
+    "require": {}
+}
